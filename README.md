@@ -6,6 +6,6 @@ The RAW file format is the highest time resolution data product available during
 
 This repository explains, in-depth, the RAW file format. The PDF is a Powerpoint with a lot of information. The Python notebook is a quick tutorial showing how to use a RAW file.
 
-If looking for a quick refresher on RAW file format:
+If looking for a quick refresher on RAW file format, other documentation has been created:
 * https://github.com/UCBerkeleySETI/breakthrough/blob/master/doc/RAW-File-Format.md -- write-up by Dave MacMahon
 * https://github.com/UCBerkeleySETI/breakthrough/blob/master/GBT/waterfall.md -- write-up by Steve Croft
